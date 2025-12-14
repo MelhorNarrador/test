@@ -42,7 +42,7 @@ Numa nota mais pessoal, estou contente com o meu proprio desenvolvimento, comece
 Filomeno Sabino:  
 
 
-Francisco Abecasis: 
+Francisco Abecasis:  
 Com o desenvolvimento deste projeto foi possível aplicar os conhecimentos adquiridos ao longo do semestre. Ao fazer esta aplicação foi possível perceber como é feito e como funciona o desenvolvimento de um projeto móvel. Apesar de ter tido algumas dificuldades no início, consegui ultrapassar, através da pesquisa. Em conclusão, este projeto foi uma experiência interessante porque percebi melhor como funciona o desenvolvimento de uma aplicação e consigo preparar-me melhor para outros projetos futuros  
 
 Savio Casimira:  
