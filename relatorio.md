@@ -36,11 +36,13 @@ Esta UC foi ajudou-nos bastante em todos os aspectos de documentação e apresen
 ## 5. Conclusões individuais
 
 ### Pedro António:  
-Acho que o projeto terminou num estado funcional, a aplicação faz o que era pretendido, embora não da melhor maneira, o desenvolvimento deste projeto teve varios problemas, principalmente de organização de grupo, mas mesmo assim acho que consegui no espaço de tempo que me foi dado, juntamente com os meus colegas que algo fizeram, desenvolver uma aplicação/projeto funcional e que carrega uma idea de negocio forte.
-Numa nota mais pessoal, estou contente com o meu proprio desenvolvimento, comecei o projeto um pouco mais tarde por não ter grupo inicialmente, sinto que consegui "agarrar" o projeto, visto que certos elementos pouco ou nada fizeram (Sem qualquer aviso), e desenvolver não so um projeto que me permite passar à cadeira mas tambem desenvolver as minhas capacidades e conhecimentos de programação e principalmente a minha organização pessoal e vontate de trabalho.  
+Acho que o projeto terminou num estado funcional, a aplicação faz o que era pretendido, embora não da melhor maneira, o desenvolvimento deste projeto teve vários problemas, principalmente de organização de grupo, mas mesmo assim acho que consegui, no espaço de tempo que me foi dado, juntamente com os meus colegas que algo fizeram, desenvolver uma aplicação/projeto funcional e que carrega uma idea de negócio forte.
+Numa nota mais pessoal, estou contente com o meu próprio desenvolvimento, comecei o projeto um pouco mais tarde por não ter grupo inicialmente, sinto que consegui "agarrar" o projeto, visto que certos elementos pouco ou nada fizeram (Sem qualquer aviso), e desenvolver não só um projeto que me permite passar à cadeira mas também desenvolver as minhas capacidades e conhecimentos de programação e principalmente a minha organização pessoal e vontate de trabalho.  
 
 ### Filomeno Sabino:  
-
+Este projeto fez-me perceber como é feito um trabalho em equipe e ajudou-me a desenvolver novas habilidades e a trabalhar com diferentes linguagens e ferramentas na área da programação.
+O projeto mobile foi uma das melhores experiências na área da tecnologia que já tive. 
+Foram muitas noites sem dormir, esforço e dedicação para o desenvolvimento da mesma.
 
 ### Francisco Abecasis:  
 Com o desenvolvimento deste projeto foi possível aplicar os conhecimentos adquiridos ao longo do semestre. Ao fazer esta aplicação foi possível perceber como é feito e como funciona o desenvolvimento de um projeto móvel. Apesar de ter tido algumas dificuldades no início, consegui ultrapassar, através da pesquisa. Em conclusão, este projeto foi uma experiência interessante porque percebi melhor como funciona o desenvolvimento de uma aplicação e consigo preparar-me melhor para outros projetos futuros  
