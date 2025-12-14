@@ -41,10 +41,13 @@ Numa nota mais pessoal, estou contente com o meu proprio desenvolvimento, comece
 
 Filomeno Sabino:  
 
-Francisco Abecasis: Com o desenvolvimento deste projeto foi possível aplicar os conhecimentos adquiridos ao longo do semestre. Ao fazer esta aplicação foi possível perceber como é feito e como funciona o desenvolvimento de um projeto móvel. Apesar de ter tido algumas dificuldades no início, consegui ultrapassar, através da pesquisa. Em conclusão, este projeto foi uma experiência interessante porque percebi melhor como funciona o desenvolvimento de uma aplicação e consigo preparar-me melhor para outros projetos futuros  
+
+Francisco Abecasis: 
+Com o desenvolvimento deste projeto foi possível aplicar os conhecimentos adquiridos ao longo do semestre. Ao fazer esta aplicação foi possível perceber como é feito e como funciona o desenvolvimento de um projeto móvel. Apesar de ter tido algumas dificuldades no início, consegui ultrapassar, através da pesquisa. Em conclusão, este projeto foi uma experiência interessante porque percebi melhor como funciona o desenvolvimento de uma aplicação e consigo preparar-me melhor para outros projetos futuros  
 
 Savio Casimira:  
 
-Gianni Lopes: Sinceramente, este projeto ajudou-me a perceber como é que uma app funciona por dentro. Gostei de ver como o código no Android se conecta com o Backend. No fim, termos uma app que realmente funciona, para mim, foi a melhor parte. Saio deste projeto com a certeza de que construímos uma base robusta que poderia facilmente ser expandida com novas funcionalidades no futuro.
+Gianni Lopes:  
+Sinceramente, este projeto ajudou-me a perceber como é que uma app funciona por dentro. Gostei de ver como o código no Android se conecta com o Backend. No fim, termos uma app que realmente funciona, para mim, foi a melhor parte. Saio deste projeto com a certeza de que construímos uma base robusta que poderia facilmente ser expandida com novas funcionalidades no futuro.
 
 
