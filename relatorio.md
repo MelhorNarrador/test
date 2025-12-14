@@ -20,11 +20,11 @@ A **Lane** é uma aplicação de localização de eventos, o problema denotado n
 
 ## 3. Contribuições  
 
-Pedro António: Desenvolvimento total da Base de Dados. Desenvolvimento total da aplicação mobile (Android Studio). Criação de documentação e apresentações. Desenvolvimento de logos e marca da aplicação. Auxilio no desenvolvimento do Backend
-Filomeno Sabino: Desenvolvimento total do Backend da aplicação.
-Francisco Abecasis: Desenvolvimento do conteudo dos documentos (texto, graficos, personas, etc...)
-Savio Casimira: Criação do video promocional
-Gianni Lopes: Criação do poster final
+Pedro António: Desenvolvimento total da Base de Dados. Desenvolvimento total da aplicação mobile (Android Studio). Criação de documentação e apresentações. Desenvolvimento de logos e marca da aplicação. Auxilio no desenvolvimento do Backend  
+Filomeno Sabino: Desenvolvimento total do Backend da aplicação.  
+Francisco Abecasis: Desenvolvimento do conteudo dos documentos (texto, graficos, personas, etc...)  
+Savio Casimira: Criação do video promocional  
+Gianni Lopes: Criação do poster final  
 
 ---
 
